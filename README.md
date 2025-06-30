@@ -69,6 +69,6 @@ To compile and run this Java Tic-Tac-Toe game, follow these steps:
 
 Here's a quick demonstration of the game in action:
 
-[*Click here to watch a short video demonstration.*](https://drive.google.com/file/d/1Z3WdpeEc20Qz6nwUjyRq9Mcgtrgz_oJK/view?usp=sharing)
+[*Click here to watch a short video demonstration.*](https://drive.google.com/file/d/14a7GgB0pe3whCp2Die3i_jLsWasIXveE/view?usp=drive_link)
 
 -----
